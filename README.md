@@ -121,4 +121,4 @@ For Help | Owner Chikabot |
 [Adiwajshing](https://github.com/adiwajshing) |
 <a href="https://github.com/LORD-Zenix"><img src="https://github.com/LORD-Zenix.png?size=100" width="100" height="100"></a> |
 [Zenix](https://github.com/LORD-Zenix) | [ZeeoneOfc](https://zeeoneofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
+Owner of ZennBot | Owner of Api Alphabot |
