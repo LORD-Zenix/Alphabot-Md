@@ -120,4 +120,5 @@ For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeoneofc.png?size=100)](http://github.com/zeeoneofc) 
 [Adiwajshing](https://github.com/adiwajshing) |
 <a href="https://github.com/LORD-Zenix"><img src="https://github.com/LORD-Zenix.png?size=100" width="100" height="100"></a> |
-[Zenix](https://github.com/LORD-Zenix)
+[Zenix](https://github.com/LORD-Zenix) | [ZeeoneOfc](https://zeeoneofc.github.io)
+Owner of Baileys | Owner of Api Alphabot |
