@@ -118,7 +118,6 @@ Constributor | For Help |
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
 For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeoneofc.png?size=100)](http://github.com/zeeoneofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
-Owner of Baileys | Owner of Api Alphabot | [Zenix](https://LORD-Zenix.com)
-Beginner | Owner of ZennBot |
-
+[Adiwajshing](https://github.com/adiwajshing) |
+<a href="https://github.com/LORD-Zenix"><img src="https://github.com/LORD-Zenix.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
+[Zenix](https://github.com/LORD-Zenix)
