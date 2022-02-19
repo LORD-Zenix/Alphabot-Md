@@ -119,5 +119,6 @@ Constributor | For Help |
 For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![FAJAR](http://github.com/zeeoneofc.png?size=100)](http://github.com/zeeoneofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [ZeeoneOfc](https://zeeoneofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
+Owner of Baileys | Owner of Api Alphabot | [Zenix](https://LORD-Zenix.com)
+Beginner | Owner of ZennBot |
 
